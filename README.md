@@ -1,2 +1,1 @@
-# Hank-learner.github.io
-sample webpage
+# Sample webpage with structure
